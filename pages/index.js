@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div>
+    <div className="text-center">
       <h1>Next.js is working</h1>
     </div>
   );
